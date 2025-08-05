@@ -8,6 +8,7 @@ function App() {
       <Header />
       <Profile />
       <Footer />
+      <h1>Hello World</h1>
     </div>
   )
 }
